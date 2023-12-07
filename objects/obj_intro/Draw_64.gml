@@ -19,6 +19,8 @@ draw_set_valign(fa_middle)
 draw_text_ext(_x1, _y1, _texto1, 30, 150-margem * 2)
 draw_text_ext(_x1, _y1, _texto2, 30, 300 - margem * 2)
 
+draw_set_font(-1)
+
 
 	
 	

@@ -34,8 +34,8 @@ if timer_min > timer_max{
 	
 		_mouse_check += -0.009
 		// Hou much we want to add
-		var _add_width = _camera_width * mouse_check
-		var _add_height = _camera_height * mouse_check
+		var _add_width = _camera_width * _mouse_check
+		var _add_height = _camera_height * _mouse_check
 		
 		//cameraWidth += addWidth
 		//cameraHeight += addHeight
